@@ -2,7 +2,7 @@
 
 School project | Front End Development
 
-Simple web application that lists cars from an existing backend.<br/>
+Simple React web application that lists cars from an existing backend.<br/>
 Includes functions
 <ul>
   <li>add new car</li>
